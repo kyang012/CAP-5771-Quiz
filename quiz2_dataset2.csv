@@ -1,0 +1,9 @@
+﻿A,B,C,result
+T,T,T,5
+F,T,T,-20
+T,F,T,20
+F,F,T,-5
+T,T,F,0
+F,T,F,25
+T,F,F,0
+F,F,F,-25
